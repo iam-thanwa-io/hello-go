@@ -1,2 +1,2 @@
 # hellogo
-new way for hello, world!
+nothing here.
