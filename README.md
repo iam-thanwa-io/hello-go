@@ -1,3 +1,3 @@
 # hellogo
 
-No testing, yet
+No testing
