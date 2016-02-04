@@ -1,3 +1,3 @@
 # hellogo
 
-testing
+empty project
