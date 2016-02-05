@@ -1,3 +1,3 @@
 # hellogo
 
-empty project
+empty projects
