@@ -1,3 +1,3 @@
 # hellogo
 
-nothing here
+A guide for go beginner
