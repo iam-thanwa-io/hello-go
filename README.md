@@ -1,3 +1,3 @@
 # hellogo
 
-A guide for go beginner
+A guide for beginner goer
