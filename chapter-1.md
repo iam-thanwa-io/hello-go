@@ -1,2 +1,2 @@
 # Chapter 1
-Welcome
+Welcome to hello-go
