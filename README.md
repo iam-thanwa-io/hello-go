@@ -3,5 +3,6 @@
 A guide for beginner goer!
 
 #Prerequisites
-GO-LANG\n
+GO-LANG
+
 editor
