@@ -6,5 +6,3 @@ A guide for beginner goer!
 GO-LANG
 
 editor
-
-Test
