@@ -5,4 +5,4 @@ A guide for beginner goer!
 #Prerequisites
 GO-LANG
 
-editor
+your favorite editor
