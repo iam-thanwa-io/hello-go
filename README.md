@@ -6,4 +6,4 @@ This is a simple guide to help you quick start on go-lang
 #Prerequisites
 GO-LANG
 
- any of your favorite
+ any of your favorite ediy
