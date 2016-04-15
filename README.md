@@ -8,4 +8,3 @@ GO-LANG
 
  any of your favorite editors
  
- disk space
