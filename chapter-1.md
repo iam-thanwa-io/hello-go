@@ -2,4 +2,4 @@
 Welcome to hello-go
 
 This is a tutorial for go language
-/ please see prerequisite before continue.
+/ please see prerequisite before continue
