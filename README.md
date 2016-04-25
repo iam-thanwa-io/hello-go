@@ -8,3 +8,4 @@ GO-LANG
 
  any of your favorite editors
  pc
+ com
