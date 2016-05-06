@@ -8,6 +8,3 @@ GO-LANG
 
  any of your favorite editor
 
-install go by this link
-
-start to run simple app
