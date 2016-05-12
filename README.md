@@ -8,6 +8,3 @@ GO-LANG
 
  any of your favorite editor
  
- Look like i need to learn MD editor first
- 
-
