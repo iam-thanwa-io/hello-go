@@ -2,5 +2,6 @@
 Welcome to hello-go
 
 This is a tutorial for go language  
-after you follow the steps  
+
+First you need 
 
