@@ -9,4 +9,8 @@ GO-LANG
 * any of your favorite editor 
 
 bullet 
+* easy 
+* yes 
+
+
 
