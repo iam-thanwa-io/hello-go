@@ -8,8 +8,6 @@ GO-LANG
 
 * any of your favorite editor 
 
-* easy 
-* yes 
 
 
 
