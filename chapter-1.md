@@ -6,6 +6,5 @@ This is a tutorial for go language
 check this first, https://golang.org 
 
 and then 
-abd then 
 
 
