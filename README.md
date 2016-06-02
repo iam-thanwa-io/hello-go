@@ -7,8 +7,7 @@ This is a simple guide to help you quick start on go-lang
 GO-LANG
 
 * any of your favorite editor 
-* and more 
-* 
+
 
 
 
