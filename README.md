@@ -8,6 +8,4 @@ GO-LANG
 
 * any of your favorite editor 
 
-## Prerequisites
-GO-LANG
 
