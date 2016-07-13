@@ -10,13 +10,6 @@ GO-LANG
 
 * any of your favorite editor 
 
-* any of your favorite editor 
-
-* any of your favorite editor 
-
-* any of your favorite editor 
-
-* any of your favorite editor 
 
 
 
