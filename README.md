@@ -17,13 +17,5 @@ GO-LANG
 
 
 
-## Prerequisites
-GO-LANG
-
-* any of your favorite editor 
-
-
-
-
 
 
