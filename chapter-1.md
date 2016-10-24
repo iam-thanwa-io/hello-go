@@ -29,8 +29,6 @@ This is a tutorial for go language
 
 This is a tutorial for go language  
 
-This is a tutorial for go language  
-
 
 
 
